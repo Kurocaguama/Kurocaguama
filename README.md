@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kurocaguama
+- 👋 Hi, I’m Francisco
 - 👀 I’m interested in AI, Math, Sports, Esports, and any possible mix of those.
 - 🌱 I’m currently learning Mathematics in college.
 - 💞️ I’m looking to collaborate on AI related projects.
