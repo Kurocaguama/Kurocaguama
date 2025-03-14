@@ -1,6 +1,6 @@
 - 📫 francisco.lopez.ponce@ciencias.unam.mx
 - Master's Student at the UNAM (Posgrado en Ciencias e Ingeniería en Computación - PCIC)
-- NLP, LLM Alignment, Decision Making, Game AI.
+- NLP, LLM Alignment, RL, Game AI.
 <!---- Español, English, 日本語, Deutsch.
 
 
